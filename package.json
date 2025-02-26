@@ -1,11 +1,19 @@
 {
-  "name": "translation",
+  "name": "i18n-translate-ln",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yashgupta18/i18n-cli.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "i18n",
+    "translate",
+    "cli"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
